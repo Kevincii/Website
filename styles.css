@@ -10,7 +10,7 @@ body {
 
 /* Header */
 header {
-    background-color: #800000;
+    background-color: #423b3b;
     padding: 20px;
     color: white;
 }
@@ -36,7 +36,7 @@ h2 {
 
 /* Navigation Bar */
 nav {
-    background-color: #660000;
+    background-color: #382b2b;
     text-align: center;
     padding: 15px;
 }
@@ -275,7 +275,7 @@ section {
 
 /* Footer */
 footer {
-    background-color: #660000;
+    background-color: #4a3232;
     text-align: center;
     padding: 15px;
     color: white;
